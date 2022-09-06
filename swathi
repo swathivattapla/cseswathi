@@ -1,2 +1,162 @@
-this is file name
-adding new line from hub
+ 1  cat>priya
+    2  cat>swathi
+    3  ls
+    4  cat swathi
+    5  touch pavan
+    6  ls
+    7  cat swathi
+    8  cat pavan
+    9  cat>mom
+   10  ls
+   11  cat mom
+   12  touch dad
+   13  ls
+   14  cat dad
+   15  touch am,hhv,nv
+   16  ls
+   17  cta name
+   18  clear
+   19  ls
+   20  clear
+   21  mkdir pan
+   22  ls
+   23  pwd
+   24  cd pan
+   25  pwd
+   26  clear
+   27  git status
+   28  git init
+   29  ls-la
+   30  ls -la
+   31  ls
+   32  ls -k
+   33  touch a
+   34  ls -la
+   35  pwd
+   36  git status
+   37  touch a,b
+   38  clear
+   39  touch d,e
+   40  ls
+   41  touch c
+   42  ls
+   43  git status
+   44  git add a,b,c,d,e
+   45  git add a b c d e
+   46  git add a,b
+   47  git status
+   48  git add .
+   49  git status
+   50  clear
+   51  touch f
+   52  git status
+   53  ls- la
+   54  ls -la
+   55  git commit -m "tis  is commit"
+   56  git config --global user.email "swathicse024@gmail.com"
+   57  git config --global user.name "swathi"
+   58  git config --list
+   59  git commit -m"this is first"
+   60  git log
+   61  git log --noline
+   62  git log --oneline
+   63  git commit
+   64  pwd
+   65  cat>today
+   66  touch a b c d
+   67  ls
+   68  pwd
+   69  ls -la
+   70  git init
+   71  mkdir priya
+   72  cd priya
+   73  touch a b c d e
+   74  ls
+   75  ls -la
+   76  git status
+   77  git add .
+   78  git status
+   79  git commit -m"first commit"
+   80  git commit --list
+   81  mkdir file
+   82  cd file
+   83  git init
+   84  cd file
+   85  mkdir file
+   86  cd file
+   87  touch a b c d
+   88  ls
+   89  ls -la
+   90  git status
+   91  git add.
+   92  git add .
+   93  git status
+   94  git commit -m"first commit"
+   95  git commit -m "first commit"
+   96  ls
+   97  git add .
+   98  git status
+   99  ls -la
+  100  git config --global user.swathi024@gmail.com
+  101  git init
+  102  git status
+  103  touch a b c d
+  104  git status
+  105  git add .
+  106  git status
+  107  git commit -m "this is my first commit"
+  108  git status
+  109  git config --global user.email"sdevipriya195@gmail.com"
+  110  git config --list
+  111  git status
+  112  ls -la
+  113  git commit -m "second commit"
+  114  touch x y z
+  115  git init
+  116  touch i j k
+  117  git add .
+  118  git commit -m "commit"
+  119  git status
+  120  git log
+  121  git remote add origin https://github.com/swathivattapla/Swathicse.git
+  122  git branch -M main
+  123  git push -u origin main
+  124  git push -u origin main
+  125  git remote add origin https://github.com/swathivattapla/Swathicse.git
+  126  cat> swathi.txt
+  127  cat swathi.txt
+  128  cat swathi
+  129  ls
+  130  git status
+  131  git init
+  132  git status
+  133  git add.
+  134  git add .
+  135  git status
+  136  git add swathi.txt
+  137  git status
+  138  clear
+  139  git commit
+  140  cat> swathi
+  141  git init
+  142  git status
+  143  git add swathi
+  144  git status
+  145  git commit -m "commit one"
+  146  git add
+  147  git log
+  148  git remote add origin https://github.com/swathivattapla/cseswathi.git
+  149  git branch -M main
+  150  git push -u origin main
+  151  git pull https://github.com/swathivattapla/cseswathi.git
+  152  cat swathi
+  153  git pull https://github.com/swathivattapla/cseswathi.git
+  154  git pull https://github.com/swathivattapla/cseswathi.git
+  155   history
+
+neeha@NEEHARIKAVOONA MINGW64 ~/OneDrive/Desktop/swtahi (main)
+$ ^C
+
+neeha@NEEHARIKAVOONA MINGW64 ~/OneDrive/Desktop/swtahi (main)
+$
+
